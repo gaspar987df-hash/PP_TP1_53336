@@ -1,0 +1,42 @@
+"C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.1\lib\idea_rt.jar=57089" -Dfile.encoding=UTF-8 -classpath C:\Users\gaspa\IdeaProjects\MiPrimerProyecto\out\production\MiPrimerProyecto App
+INICIANDO PROCESO DE INSCRIPCIONES
+Anotando a Pedro en el taller: CONFIRMADO
+Anotando a Sofía en el taller: CONFIRMADO
+Anotando a Valentino en el taller: RECHAZADO_SIN_CUPO
+RESUMEN DE EVENTOS
+=========================================
+EVENTO: Congreso Tecnológico de Cómputo (ID: EV-301)
+Costo Base: $10000.0 | ¿Gratuito?: No
+Costo Estimado Final (con IVA 21%): $18150.0
+Lugar (Sala): Laboratorio de Sistemas Informáticos (ID: 401)
+--- Actividades de la Agenda ---
+  -> [Charla] Introducción al Desarrollo Web (ID: 1)
+    Costo Materiales: $0.0
+    Orador/Disertante: Ing. Carlos López
+    Anotados (3/30):
+      * [CONFIRMADO] Pedro Pérez
+      * [CONFIRMADO] Sofía Gómez
+      * [CONFIRMADO] Valentino Díaz
+  -> [Taller] Taller Práctico de Microservicios (ID: 2)
+    Costo Materiales: $5000.0
+    ¿Notebook obligatoria?: Sí
+    Anotados (2/2):
+      * [CONFIRMADO] Pedro Pérez
+      * [CONFIRMADO] Sofía Gómez
+=========================================
+
+=========================================
+EVENTO: Jornadas de Software Libre (ID: EV-302)
+Costo Base: $0.0 | ¿Gratuito?: Sí
+Costo Estimado Final (con IVA 21%): $0.0
+Lugar (Sala): Auditorio René Favaloro (ID: 502)
+--- Actividades de la Agenda ---
+  -> [Charla] La Filosofía del Software Libre (ID: 3)
+    Costo Materiales: $0.0
+    Orador/Disertante: Dr. Richard Stallman
+    Anotados: No hay nadie anotado todavía.
+=========================================
+
+Total de eventos registrados en el sistema: 2
+
+Process finished with exit code 0
