@@ -10,3 +10,4 @@ Se utiliza Java y se implementa una jerarquia de clases para calcular los costos
 
 El proyecto incluye la documentacion de las relaciones en memoria
 
+la imagen que esta subida como el mapa mental, esta hecha en excalidraw. 
